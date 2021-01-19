@@ -1,5 +1,5 @@
 {
-	"file": "https://raw.githubusercontent.com/sethbarr/MeeUpset.github.io/main/data/GenesUnderSel_All/GenesUnderSel_All.tsv",
+	"file": "data/GenesUnderSel_All/GenesUnderSel_All.tsv",
 	"name": "All genes under selection ",
 	"header": 0,
 	"separator": "\t",
