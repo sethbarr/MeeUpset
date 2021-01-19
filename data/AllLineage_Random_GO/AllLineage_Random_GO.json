@@ -1,5 +1,5 @@
 {
-	"file": "data/AllLineage_Random_GO/AllLineage_Random_GO.tsv",
+	"file": "https://raw.githubusercontent.com/sethbarr/MeeUpset.github.io/main/data/AllLineage_Random_GO/AllLineage_Random_GO.tsv",
 	"name": "Overrepresented GO terms in all lineages in random classes ",
 	"header": 0,
 	"separator": "\t",

@@ -1,5 +1,5 @@
 {
-	"file": "data/AllLineage_Immune_GO/AllLineage_Immune_GO.tsv",
+	"file": "https://raw.githubusercontent.com/sethbarr/MeeUpset.github.io/main/data/AllLineage_Immune_GO/AllLineage_Immune_GO.tsv",
 	"name": "Overrepresented GO terms in all lineages for immune genes ",
 	"header": 0,
 	"separator": "\t",

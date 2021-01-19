@@ -1,5 +1,5 @@
 {
-	"file": "data/AllSocialities_Random_GO/AllSocialities_Random_GO.tsv",
+	"file": "https://raw.githubusercontent.com/sethbarr/MeeUpset.github.io/main/data/AllSocialities_Random_GO/AllSocialities_Random_GO.tsv",
 	"name": "Overrepresented GO terms in all socialities and random class ",
 	"header": 0,
 	"separator": "\t",
